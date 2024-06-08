@@ -71,8 +71,4 @@ This tool is intended for educational purposes only. Use it responsibly and ensu
 
 ---
 
-"Unleashing the chaos in cryptography to secure your data."
-
-Happy encrypting with CipherShock!
-
----
+Unleashing the chaos in cryptography to secure your data.
